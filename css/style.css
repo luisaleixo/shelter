@@ -22192,7 +22192,7 @@ p {
 
 .hero-image {
   z-index: 1;
-  width: 80%;
+  width: 10%;
 }
 
 @media (min-width: 480px) {
